@@ -2,31 +2,31 @@
 "data" : [
   {
     "url": "1",
-    "cleanUrl ": "Brocoli"
+    "cleanUrl": "Brocoli"
   },
   {
     "url": "2",
-    "cleanUrl ": "Cauliflower"
+    "cleanUrl": "Cauliflower"
   },  
   {
     "url": "3",
-    "cleanUrl ": "Cucumber"
+    "cleanUrl": "Cucumber"
   },
   {
     "url": "4",
-    "cleanUrl ": "Beetroot"
+    "cleanUrl": "Beetroot"
   },  
   {
     "url": "5",
-    "cleanUrl ": "Carrot"
+    "cleanUrl": "Carrot"
   },
   {
     "url": "6",
-    "cleanUrl ": "Tomato"
+    "cleanUrl": "Tomato"
   },  
   {
     "url": "7",
-    "cleanUrl ": "Beans"
+    "cleanUrl": "Beans"
   },
   {
     "url": "8",
@@ -34,90 +34,90 @@
   },  
   {
     "url": "9",
-    "cleanUrl ": "Capsicum"
+    "cleanUrl": "Capsicum"
   },
   {
     "url": "10",
-    "cleanUrl ": "Mushroom"
+    "cleanUrl": "Mushroom"
   },  
   {
     "url": "11",
-    "cleanUrl ": "Potato"
+    "cleanUrl": "Potato"
   },
   {
     "url": "12",
-    "cleanUrl ": "Pumpkin"
+    "cleanUrl": "Pumpkin"
   },  
   {
     "url": "13",
-    "cleanUrl ": "Corn"
+    "cleanUrl": "Corn"
   },
   {
     "url": "14",
-    "cleanUrl ": "Onion"
+    "cleanUrl": "Onion"
   },  
   {
     "url": "15",
-    "cleanUrl ": "Apple"
+    "cleanUrl": "Apple"
   },
   {
     "url": "16",
-    "cleanUrl ": "Banana"
+    "cleanUrl": "Banana"
   },  
   {
     "url": "17",
-    "cleanUrl ": "Grapes"
+    "cleanUrl": "Grapes"
   },
   {
     "url": "18",
-    "cleanUrl ": "Mango"
+    "cleanUrl": "Mango"
   },  
   {
     "url": "19",
-    "cleanUrl ": "MuskMelon"
+    "cleanUrl": "MuskMelon"
   },
   {
     "url": "20",
-    "cleanUrl ": "Orange"
+    "cleanUrl": "Orange"
   },
   {
     "url": "21",
-    "cleanUrl ": "Pears"
+    "cleanUrl": "Pears"
   },
   {
     "url": "22",
-    "cleanUrl ": "Pomegranate"
+    "cleanUrl": "Pomegranate"
   },  
   {
     "url": "23",
-    "cleanUrl ": "Raspberry"
+    "cleanUrl": "Raspberry"
   },
   {
     "url": "24",
-    "cleanUrl ": "Strawberry"
+    "cleanUrl": "Strawberry"
   },  
   {
     "url": "25",
-    "cleanUrl ": "WaterMelon"
+    "cleanUrl": "WaterMelon"
   },
   {
     "url": "26",
-    "cleanUrl ": "Almonds"
+    "cleanUrl": "Almonds"
   },  
   {
     "url": "27",
-    "cleanUrl ": "Pista"
+    "cleanUrl": "Pista"
   },
   {
     "url": "28",
-    "cleanUrl ": "NutsMixture"
+    "cleanUrl": "NutsMixture"
   },  
   {
     "url": "29",
-    "cleanUrl ": "Cashews"
+    "cleanUrl": "Cashews"
   },
   {
     "url": "30",
-    "cleanUrl ": "Walnuts"
+    "cleanUrl": "Walnuts"
   }
 ]}
