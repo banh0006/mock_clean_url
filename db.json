@@ -1,0 +1,123 @@
+{ 
+"data" : [
+  {
+    "url": "1",
+    "cleanUrl ": "Brocoli"
+  },
+  {
+    "url": "2",
+    "cleanUrl ": "Cauliflower"
+  },  
+  {
+    "url": "3",
+    "cleanUrl ": "Cucumber"
+  },
+  {
+    "url": "4",
+    "cleanUrl ": "Beetroot"
+  },  
+  {
+    "url": "5",
+    "cleanUrl ": "Carrot"
+  },
+  {
+    "url": "6",
+    "cleanUrl ": "Tomato"
+  },  
+  {
+    "url": "7",
+    "cleanUrl ": "Beans"
+  },
+  {
+    "url": "8",
+    "cleanUrl ": "Brinjal"
+  },  
+  {
+    "url": "9",
+    "cleanUrl ": "Capsicum"
+  },
+  {
+    "url": "10",
+    "cleanUrl ": "Mushroom"
+  },  
+  {
+    "url": "11",
+    "cleanUrl ": "Potato"
+  },
+  {
+    "url": "12",
+    "cleanUrl ": "Pumpkin"
+  },  
+  {
+    "url": "13",
+    "cleanUrl ": "Corn"
+  },
+  {
+    "url": "14",
+    "cleanUrl ": "Onion"
+  },  
+  {
+    "url": "15",
+    "cleanUrl ": "Apple"
+  },
+  {
+    "url": "16",
+    "cleanUrl ": "Banana"
+  },  
+  {
+    "url": "17",
+    "cleanUrl ": "Grapes"
+  },
+  {
+    "url": "18",
+    "cleanUrl ": "Mango"
+  },  
+  {
+    "url": "19",
+    "cleanUrl ": "MuskMelon"
+  },
+  {
+    "url": "20",
+    "cleanUrl ": "Orange"
+  },
+  {
+    "url": "21",
+    "cleanUrl ": "Pears"
+  },
+  {
+    "url": "22",
+    "cleanUrl ": "Pomegranate"
+  },  
+  {
+    "url": "23",
+    "cleanUrl ": "Raspberry"
+  },
+  {
+    "url": "24",
+    "cleanUrl ": "Strawberry"
+  },  
+  {
+    "url": "25",
+    "cleanUrl ": "WaterMelon"
+  },
+  {
+    "url": "26",
+    "cleanUrl ": "Almonds"
+  },  
+  {
+    "url": "27",
+    "cleanUrl ": "Pista"
+  },
+  {
+    "url": "28",
+    "cleanUrl ": "NutsMixture"
+  },  
+  {
+    "url": "29",
+    "cleanUrl ": "Cashews"
+  },
+  {
+    "url": "30",
+    "cleanUrl ": "Walnuts"
+  }
+]
